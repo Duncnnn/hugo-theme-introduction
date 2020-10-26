@@ -10,18 +10,8 @@ sections:
   create: all
   match: "*"
 - type: directory
-  path: exampleSite/content/es
-  label: Es
-  create: all
-  match: "**/*"
-- type: directory
   path: exampleSite/content/en
   label: En
-  create: all
-  match: "**/*"
-- type: directory
-  path: exampleSite/content/de
-  label: De
   create: all
   match: "**/*"
 upload_dir: exampleSite/static/uploads
