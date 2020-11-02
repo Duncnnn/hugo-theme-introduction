@@ -1,12 +1,12 @@
 ---
-title: "About"
-image: "profile.jpg"
-weight: 8
+title: About
+image: profile.jpg
+weight: "8"
+
 ---
+This is Clachworks
 
-This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
-
-### Features
+### Clachworks
 
 * Responsive display on any size screen
 * Light and Dark themes right out of the box
